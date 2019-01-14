@@ -1,4 +1,4 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Range Demo
+=================
 
 Run `Hello.kt` in your IDE.

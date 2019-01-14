@@ -1,7 +1,6 @@
 package example
 
 fun main(args: Array<String>) {
-    println(hello("Kotlin"))
+    for (x in 0..3) println(x)
+    for (x in 0 until 3) println(x)
 }
-
-fun hello(name: String): String = "Hello, $name!"
